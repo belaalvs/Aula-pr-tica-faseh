@@ -1,0 +1,20 @@
+1  //Escrever um algoritmo para determinar o consumo médio de um automóvel
+2  //sendo fornecida a distância total percorrida pelo automóvel e o total de combustível gasto.
+3     
+4   Algoritmo <consumo_automóvel>
+5  
+6   Inicio
+7   
+8   Var
+9   km, comb, consumomedio: real
+10  
+11  Escreva ("Qual a distância percorrida pelo automóvel? ")
+12  Leia (km)
+13  Escreva ("Qual o total de combustível gasto? ")
+14  Leia (comb)
+15  consumomedio <- km / comb 
+16  Escreva (" O consumo médio percorrido pelo automóvel: " ,consumomedio)
+17  
+18 FimAlgoritmo
+
+ 
