@@ -31,7 +31,7 @@ Senao
   Se media <= 5 entao
     EscrevaL (" | CLASSIFICAÇÃO: REPROVADO(A)")
   Senao
-    Escreva (" | CLASSIFICAÇÃO: RECUPERAÇÃO")
+    EscrevaL (" | CLASSIFICAÇÃO: RECUPERAÇÃO")
   FimSe
 FimSe
 FimAlgoritmo
