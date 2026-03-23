@@ -38,6 +38,6 @@ Para c <- 1 ate final faca
       FimSe
     FimSe
   FimSe
-  EscrevaL (n, op, c, "=" valor) 
+  EscrevaL (n, op, c, "=" ,valor) 
 FimPara
 FimAlgoritmo
